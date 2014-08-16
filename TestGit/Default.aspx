@@ -21,9 +21,7 @@
     <ol class="round">
        
         <li class="two">
-            <h5>Add NuGet packages and jump-start your coding</h5>
-            NuGet makes it easy to install and update free libraries and tools.
-            <a href="http://go.microsoft.com/fwlink/?LinkId=245147">Learn more…</a>
+          by by newget
         </li>
         <li class="three">
             <h5>Find Web Hosting</h5>
