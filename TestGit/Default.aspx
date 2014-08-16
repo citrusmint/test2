@@ -39,5 +39,5 @@ fixed all this can we restart please.
             <a href="http://go.microsoft.com/fwlink/?LinkId=245143">Learn more…</a>
         </li>
     </ol>
-    my name is name
+
 </asp:Content>
