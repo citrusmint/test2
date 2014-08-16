@@ -19,7 +19,7 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
 <<<<<<< HEAD
 fixed all this can we restart please.
-=======
+
     <h3>We suggest the following:</h3>
     <ol class="round">
         <li class="one">
@@ -39,5 +39,5 @@ fixed all this can we restart please.
             <a href="http://go.microsoft.com/fwlink/?LinkId=245143">Learn more…</a>
         </li>
     </ol>
->>>>>>> parent of 9a08071... removed a paragraph
+
 </asp:Content>
